@@ -1,2 +1,7 @@
 # golden_score-repo
 Econometrics project in regression analysis in STATA for predicting a "golden score" for countries. 
+
+Project Topic – Regression analysis to estimate what effects predictive score for each country in taken sample of countries.
+
+Introduction
+Today there are a lot of estimators of countries, it might be Economical aspects (GDP, FDI), it can be educational estimators, military-force estimators, safety and crime level, bribery level, freedom in terms of political environment, ideological and religious points of views and level of tolerance and racism, level of generosity and spiritual-development, educational-level and so on. But we with our team-mates decided what if we don’t want to analyze each aspect separately and instead to analyze a “golden middle” score to know better which country is more suitable in terms of above listed perspectives. We obtained different numbers for each category from statistical sources including “golden middle” which is recently highly spread among immigrant people. We obtained this score and data from the internet by doing research. Basically, we will analyze which of above-mentioned categories effects this “golden-middle score” and describes it more. We took a sample of countries as observations and several of the above-mentioned categories will be our variables. Further we have carried out some quantitative research specially the regression analysis for econometrical topic.
